@@ -11,3 +11,6 @@
 $ git check out -b ""
 type the repository name between two double-quotations
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
